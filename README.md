@@ -11,8 +11,7 @@ Here's how to open an example notebook:
 3) Click on "Github" in the list of options on the left,
 under "Open Notebook".
    
-4) Enter [https://github.com/stephsallum/astr21](https://github.com/stephsallum/astr21) into the
-Github URL search box.
+4) Enter "bgaensler/astr21" into the Github URL search box.
 
 5) Click on the notebook you want to run.
 
